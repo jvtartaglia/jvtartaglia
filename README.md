@@ -4,6 +4,7 @@
 - 🐍 Pythonista
 - 🐋 Docker
 - ⎈ Kubernetes
+- 👨‍🔧 Hobbist maker
 
 
 ![Anurag's GitHub stats](https://jvtartaglia.vercel.app/api?username=jvtartaglia&show_icons=true&theme=tokyonight)
